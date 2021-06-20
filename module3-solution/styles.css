@@ -1,0 +1,25 @@
+h2{
+  text-align: center;
+  }
+
+.chicken{
+  height: 260px;
+  border: 2px solid;
+  background-color: rgb(202, 202, 202);
+  padding: 5px;
+}
+
+.chinese{
+  height: 260px;
+  border: 2px solid;
+  background-color: rgb(202, 202, 202);
+  padding: 5px;
+
+}
+.sushi{
+  height: 260px;
+  border: 2px solid;
+  background-color: rgb(202, 202, 202);
+  padding: 5px;
+
+}
